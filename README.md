@@ -23,8 +23,9 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=brunopereiraalves&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunopereiraalves&layout=compact&theme=radical)
+![Bruno's GitHub stats](https://github-readme-stats.vercel.app/api?username=alves46&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alves46&layout=compact&theme=radical)
+
 
 ---
 
