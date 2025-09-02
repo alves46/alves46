@@ -19,9 +19,6 @@
 
 ## 📫 Contato
 - [LinkedIn](https://www.linkedin.com/in/bruno-pereira-alves)  
-- Escaneie o QR Code abaixo para acessar meu LinkedIn:
-
-![QR Code LinkedIn](https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=https://www.linkedin.com/in/bruno-pereira-alves)
 
 ---
 
