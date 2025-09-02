@@ -17,7 +17,8 @@
 ---
 
 ## 📫 Contato
-- [LinkedIn](https://www.linkedin.com/in/bruno-pereira-alves)  
+- [LinkedIn](https://www.linkedin.com/in/bruno-pereira-alves)
+- [Email](mailto:brnalves46@gmail.com)
 
 ---
 
