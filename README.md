@@ -1,6 +1,6 @@
 # Olá, eu sou o Bruno 👋
 
-🚀 **Estudante de Sistemas de Informação | Desenvolvedor Front-end
+🚀 Estudante de Sistemas de Informação | Desenvolvedor Front-end
 💻 Apaixonado por tecnologia, inovação e automação.  
 🏃‍♂️ Curto corrida e academia para manter energia e foco.  
 
