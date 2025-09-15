@@ -29,4 +29,4 @@
 
 ---
 
-✨ “Sempre aprendendo, sempre evoluindo.”
+✨ Sempre aprendendo, sempre evoluindo!
